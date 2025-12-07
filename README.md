@@ -95,17 +95,3 @@ while read line; do
         echo "---------------------------------------------"
     fi
 done
-
-Installation
-1️⃣ Clone the repository
-git clone https://github.com/alexojocyber/Realtime-Failed-Login-Monitor.git
-cd Realtime-Failed-Login-Monitor
-
-2️⃣ Make the script executable
-sudo ./realtime-monitor.sh
-
-3️⃣ Run it with sudo
-sudo ./realtime-monitor.sh
-
-Troubleshooting
-❌ auth.log missing?
