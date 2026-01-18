@@ -10,7 +10,7 @@ This project is part of my ongoing **Cybersecurity Automation Learning Journey**
 
 This Bash script continuously monitors failed login attempts on a Linux system using `tail -f` and highlights:
 
-- ❗ Username involved  
+-  ❗ Username involved  
 - 🌐 IP address of the attempt  
 - 🕒 Exact timestamp  
 - 🚨 Real-time alerts for each failed attempt  
